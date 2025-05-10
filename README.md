@@ -64,31 +64,6 @@ Welcome to my data analytics github repository! This repository contains three e
 - 📆 Date/Time Feature Engineering
 - 🗣️ Sentiment Data Visualization
 
----
-
-## 📌 Folder Structure
-
-multidomain-data-analytics-projects/
-│
-├── 1.Task/
-│   ├── plots/
-│   │   ├── iris_histogram.png
-│   │   ├── stock_line_chart.png
-│   │   └── ... (other EDA/regression/time series plots)
-│   │
-│   ├── plots_sentiment/
-│   │   ├── sentiment_by_hour.png
-│   │   ├── sentiment_trend_monthly.png
-│   │   └── ... (other sentiment visualizations)
-│   │
-│   ├── Iris.ipynb
-│   ├── Sentiment_Dataset.ipynb
-│   └── Stock_Prices.ipynb
-│
-├── Data_Analytics_Task_List.pdf
-└── README.md
-
-
 
 ---
 
